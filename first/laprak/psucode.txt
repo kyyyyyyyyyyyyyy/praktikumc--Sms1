@@ -1,0 +1,17 @@
+konversi_nilai_menjadi_ASCII
+
+var : char
+conv : int
+
+input var;
+conv ? mengubah var menjadi ASCII;
+tampilkan conv;
+
+
+
+input_output
+
+var : string
+
+input var;
+tampilkan var;
