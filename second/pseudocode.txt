@@ -1,0 +1,14 @@
+implementasi_operaor_relasional
+
+harga : int
+cashback : int
+
+masukan harga;
+if harga >= 100k maka
+	cashback = harga * 10/100;
+	tampilkan harga dan cashback; 
+else
+	tampilkan harga;
+end if
+
+  
